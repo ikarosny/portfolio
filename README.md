@@ -13,7 +13,7 @@
 
 ## Feito por:
 
-###Bruna de Oliveira Dutra
+### Bruna de Oliveira Dutra
 
-###Linkedin:
+### Linkedin:
 https://www.linkedin.com/in/bruna-oliveira-3a9270142/
