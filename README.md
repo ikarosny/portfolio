@@ -1,13 +1,15 @@
-```
+
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+
+> :construction: Projeto em construção :construction:
 
 ## Ferramentas utilizadas:
 
-* HTML
+- ``HTML``
 
-* CSS
+- ``CSS``
 
-* Flex-box
+- ``Flex-box``
 
 ## Feito por:
 
@@ -15,5 +17,3 @@
 
 ###Linkedin:
 https://www.linkedin.com/in/bruna-oliveira-3a9270142/
-
-```
