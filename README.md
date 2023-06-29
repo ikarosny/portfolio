@@ -1,7 +1,11 @@
 
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+# Portfólio, Bem vindo ao meu Projeto de Portfólio.
 
 > :construction: Projeto em construção :construction:
+
+Um site responsivo que se adapta de acordo com a tela. Segue abaixo uma desmontração de como ficaria no smartphone:
+
+<img src="https://github.com/ikarosny/portfolio/blob/main/ezgif.com-optimize.gif">
 
 ## Ferramentas utilizadas:
 
