@@ -1,9 +1,6 @@
 ```
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-##Imagem
-![]()
-
 ## Ferramentas utilizadas:
 
 * HTML
